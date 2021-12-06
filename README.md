@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Seongjin%20Park&fontSize=90&fontAlign=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Seongjin%20Park&fontSize=90&fontAlignY=40&animation=twinkling)
 <!-- ![seongjinpark1](https://github-readme-stats.vercel.app/api?username=seongjinpark1&show_icons=true) -->
 
 <!--
